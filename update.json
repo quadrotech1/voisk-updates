@@ -3,6 +3,6 @@
   "versionName": "2.1.4",
   "downloadUrl": "https://github.com/quadrotech1/voisk-updates/releases/latest/download/app-release.apk",
   "changelog": "привет",
-  "requiresCleanInstall": true,
+  "requiresCleanInstall": false,
   "md5": ""
 }
