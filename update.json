@@ -4,7 +4,7 @@
   "downloadUrl": "https://github.com/quadrotech1/voisk-updates/releases/latest/download/app-release.apk",
   "changelog": "-добавил багрепорт
                 -корректор не исправляет пресеты и имена контактов",
-                -versionName в шапке приложения"
+                -versionName в шапке приложения",
   "requiresCleanInstall": false,
   "md5": ""
 }
