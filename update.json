@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "2.1.3",
+  "versionCode": 4,
+  "versionName": "2.1.4",
   "downloadUrl": "https://github.com/quadrotech1/voisk-updates/releases/latest/download/app-release.apk",
-  "changelog": "-добавил багрепорт\n-корректор больше не исправляет пресеты и имена контактов\n-versionName в шапке приложения\n-минорные фиксы теста распознавания и главного меню",
+  "changelog": "-правки словаря",
   "requiresCleanInstall": false,
   "md5": ""
 }
