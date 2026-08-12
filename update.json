@@ -1,8 +1,8 @@
 {
-  "versionCode": 4,
-  "versionName": "2.1.4",
+  "versionCode": 5,
+  "versionName": "2.1.5",
   "downloadUrl": "https://github.com/quadrotech1/voisk-updates/releases/latest/download/app-release.apk",
-  "changelog": "-правки словаря",
+  "changelog": "-отправка логов сразу на сервер\n-мелкие правки audiorecord и ui",
   "requiresCleanInstall": false,
   "md5": ""
 }
