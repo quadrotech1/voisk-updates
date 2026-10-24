@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "2.1.6",
+  "versionCode": 8,
+  "versionName": "2.1.8",
   "downloadUrl": "https://github.com/quadrotech1/voisk-updates/releases/latest/download/app-release.apk",
-  "changelog": "-ускорение сервиса (в начале фраз)\n-правки корректора и словаря",
+  "changelog": "-ползунок громкости в приложении\n-фикс кнопки синхронизации контактов для х50+",
   "requiresCleanInstall": false,
   "md5": ""
 }
